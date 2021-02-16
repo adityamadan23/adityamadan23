@@ -2,6 +2,14 @@
 
 I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2021.
 
+I'm interested in the following areas 👇
+- Quant Research & Development
+- API Development
+- Distributed & Parallel Algorithms
+- Machine Learning
+- Algorithm Design & Theoretical Computer Science
+
+Currently in the works 👇
 - Currently working on improving my competetive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
 - Currently learning Theoretical Computer Science & Functional Programming
 - Incoming SDE Intern @ Amazon for Summer 2021
