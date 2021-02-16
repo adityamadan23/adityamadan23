@@ -3,6 +3,10 @@
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Feel free to reach out to me anytime!
+<p align="left">
+  [![Gmail Badge](https://img.shields.io/badge/-azeng25@uwo.ca-c14438?logo=Gmail&logoColor=white)](mailto:aditya.madan7@gmai.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-anselzeng-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityamadan23/)
+</p>
 
 
 <!--
