@@ -2,6 +2,8 @@
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamadan23)](https://github.com/anuraghazra/github-readme-stats)
+
 Feel free to reach out to me anytime!
 
 
