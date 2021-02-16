@@ -8,7 +8,7 @@ I'm interested in the following areas 👇
 - API Development
 - Distributed & Parallel Algorithms
 - ML/AI
-- Algorithm Design
+- Algorithm Design & Analysis
 - Theoretical Computer Science & Language Theory
 - Networking & Cloud Computing
 
