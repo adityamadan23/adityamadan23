@@ -23,12 +23,12 @@ Currently in the works 👇
 
 I love working with the following languages
 
-![Python](https://img.shields.io/badge/-Python-C51A4A?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-C14438?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-E10098?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-B608F8?style=flat-square&logo=javascript)
-![R](https://img.shields.io/badge/-R-B608F8?style=flat-square&logo=R)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![R](https://img.shields.io/badge/-R-purple?style=flat-square&logo=R)
 
 Feel free to reach out to me anytime!
 
