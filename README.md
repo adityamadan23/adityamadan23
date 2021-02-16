@@ -14,6 +14,9 @@ I love working with
 
 Feel free to reach out to me anytime!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Aditya%20Madan-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityamadan23/)
+[![Gmail Badge](https://img.shields.io/badge/-aditya.madan7@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aditya.madan7@gmail.com)
+
 
 <!--
 **adityamadan23/adityamadan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
