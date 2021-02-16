@@ -8,6 +8,7 @@ I'm interested in the following areas 👇
 - Distributed & Parallel Algorithms
 - Machine Learning
 - Algorithm Design & Theoretical Computer Science
+- Networking & Cloud Computing
 
 Currently in the works 👇
 - Currently working on improving my competetive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
