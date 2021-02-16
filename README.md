@@ -4,10 +4,12 @@ I'm currently pursuing a Honours Bachelor of Science in Computer Science and a m
 
 I'm interested in the following areas 👇
 - Quant Research & Development
+- Mathematical Finance
 - API Development
 - Distributed & Parallel Algorithms
-- Machine Learning
-- Algorithm Design & Theoretical Computer Science
+- ML/AI
+- Algorithm Design
+- Theoretical Computer Science & Language Theory
 - Networking & Cloud Computing
 
 Currently in the works 👇
