@@ -13,7 +13,7 @@ I'm interested in the following areas 👇
 - Networking & Cloud Computing
 
 Currently in the works 👇
-- Currently working on improving my competetive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
+- Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
 - Currently learning Theoretical Computer Science & Functional Programming
 - Incoming SDE Intern @ Amazon for Summer 2021
 
