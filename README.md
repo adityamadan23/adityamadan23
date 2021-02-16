@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2021.
+I'm Aditya, feel free to call me Adi, I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2021.
 
 I'm interested in the following areas 👇
 - Quant Research & Development
