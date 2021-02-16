@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to my profile
 
+I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from the University of Western Ontario and expecting to graduate by April 2021.
+
 - Currently working on improving my competetive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
 - Currently learning Theoretical Computer Science & Functional Programming
 - Incoming SDE Intern @ Amazon for Summer 2021
