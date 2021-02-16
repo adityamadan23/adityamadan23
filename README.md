@@ -14,7 +14,7 @@ I'm interested in the following areas 👇
 
 Currently in the works 👇
 - Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
-- Currently learning Theoretical Computer Science & Functional Programming
+- Currently learning Internet Algorithms & Functional Programming
 - Incoming SDE Intern @ Amazon for Summer 2021
 
 
