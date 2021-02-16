@@ -4,6 +4,7 @@
 - Currently learning Theoretical Computer Science & Functional Programming
 - Incoming SDE Intern @ Amazon for Summer 2021
 
+
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamadan23&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
