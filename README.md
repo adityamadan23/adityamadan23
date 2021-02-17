@@ -4,7 +4,6 @@ I'm Aditya, feel free to call me Adi, I'm currently pursuing a Honours Bachelor 
 
 I'm interested in the following areas 👇
 - Quant Research & Development
-- Mathematical Finance
 - API Development
 - Distributed & Parallel Algorithms
 - ML/AI
