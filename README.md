@@ -25,7 +25,7 @@ I love working with the following languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-C14438?style=flat-square&logo=Java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
 ![C](https://img.shields.io/badge/-C-E10098?style=flat-square&logo=c)
 
 Feel free to reach out to me anytime!
