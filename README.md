@@ -1,10 +1,9 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi, I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2021.
+I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022.
 
 I'm interested in the following areas 👇
 - Quant Research & Development
-- API Development
 - Distributed & Parallel Algorithms
 - ML/AI
 - Algorithm Design & Analysis
@@ -13,8 +12,8 @@ I'm interested in the following areas 👇
 
 Currently in the works 👇
 - Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
-- Currently learning Internet Algorithms & Functional Programming
-- Incoming SDE Intern @ Amazon for Summer 2021
+- Currently researching topics in computer science, specifically algorithms, for my honours thesis
+- Software Development Engineer Intern @ Amazon Web Services (AWS)
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
