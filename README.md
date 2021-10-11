@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022.
+I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022. I'm currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems!
 
 I'm interested in the following areas 👇
 - Quant Research & Development
