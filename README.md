@@ -12,8 +12,8 @@ I'm interested in the following areas 👇
 
 Currently in the works 👇
 - Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
-- Currently researching topics in computer science, specifically algorithms, for my honours thesis
-- Software Development Engineer Intern @ Amazon Web Services (AWS)
+- Currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems!
+- Wrapping up new grad hiring (Exciting new to share soon!)
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
