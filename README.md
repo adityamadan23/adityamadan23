@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022. I'm currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems!
+I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022. I'm currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems! I'm excited to be joining Google as a Software Engineer in Mountainview California in September 2022!
 
 I'm interested in the following areas 👇
 - Quant Research & Development
@@ -13,7 +13,6 @@ I'm interested in the following areas 👇
 Currently in the works 👇
 - Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
 - Currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems!
-- Wrapping up new grad hiring (Exciting new to share soon!)
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
