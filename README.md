@@ -1,18 +1,16 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi. I'm currently pursuing a Honours Bachelor of Science in Computer Science and a minor in Mathematics from [The University of Western Ontario](https://www.uwo.ca/) and expecting to graduate by April 2022. I'm currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems! I'm excited to be joining Google as a Software Engineer in Mountainview California in September 2022!
+I'm Aditya, feel free to call me Adi. I just graduated with a Honors Bachelor of Science in Computer Science from [The University of Western Ontario](https://www.uwo.ca/). I'm excited to be joining Google as a Software Engineer in Mountainview California in September 2022!
 
 I'm interested in the following areas 👇
-- Quant Research & Development
+- Quantitative Finance Algorithmic Research & Development
 - Distributed & Parallel Algorithms
 - ML/AI
 - Algorithm Design & Analysis
 - Theoretical Computer Science & Language Theory
-- Networking & Cloud Computing
 
 Currently in the works 👇
 - Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
-- Currently working on writing my honors thesis on the creation of approximation algorithms to solve NP-hard problems!
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,10 +22,8 @@ I love working with the following languages
 ![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-E10098?style=flat-square&logo=c)
-<!--
 ![Go](https://img.shields.io/badge/-Golang-0FF37A?style=flat-square&logo=go)
 ![Javascript](https://img.shields.io/badge/-Javascript-0FF37A?style=flat-square&logo=javascript)
--->
 
 Feel free to reach out to me anytime!
 
