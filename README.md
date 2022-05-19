@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi. I just graduated with a Honors Bachelor of Science in Computer Science from [The University of Western Ontario](https://www.uwo.ca/). I'm excited to be joining Google as a Software Engineer in Mountain View, California in October 2022!
+I'm Aditya, feel free to call me Adi. I just graduated with a Honors Bachelor of Science in Computer Science from [The University of Western Ontario](https://www.uwo.ca/). I'm excited to be joining Google as a Software Engineer in Mountain View, California from October 2022!
 
 I'm interested in the following areas 👇
 - Quantitative Finance Algorithmic Research & Development
