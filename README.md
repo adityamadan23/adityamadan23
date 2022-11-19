@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my profile
 
-I'm Aditya, feel free to call me Adi. I work as a Software Engineer at Google. I work on Cloud Networking mainly with C++.
+I'm Aditya, feel free to call me Adi. I work as a Software Engineer at Google. I work on Distributed Cloud Networking Infrastructure, mainly with C++.
 
 I'm interested in the following areas 👇
 - Quantitative Finance Algorithmic Research & Development
