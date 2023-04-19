@@ -23,7 +23,7 @@ I love working with the following languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![C](https://img.shields.io/badge/-C-E10098?style=flat-square&logo=c)
 ![Go](https://img.shields.io/badge/-Golang-0FF37A?style=flat-square&logo=go)
-![Javascript](https://img.shields.io/badge/-Javascript-0FF37A?style=flat-square&logo=javascript)
+<!--![Javascript](https://img.shields.io/badge/-Javascript-0FF37A?style=flat-square&logo=javascript)-->
 
 Feel free to reach out to me anytime!
 
