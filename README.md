@@ -1,16 +1,18 @@
-### 👋 Hey there
+### Welcome to my GitHub Page!
 
-I'm Aditya, feel free to call me Adi. I work as a Software Engineer at Google in Mountain View, California. I work on Distributed Systems using C++.
+I'm Aditya, feel free to call me Adi. I work as a Member of Technical Staff at Cockroach Labs for the Cloud Platforms Team. I previously worked at Google on the Cloud Networking Control Plane team in Sunnyvale, California.
 
 I'm interested in the following areas 👇
-- Quantitative Finance Algorithmic Research & Development
-- Distributed & Parallel Algorithms
-- ML/AI
+- Parallel and Concurrent Programming
+- Distributed Systems
 - Algorithm Design & Analysis
 - Theoretical Computer Science & Language Theory
+- Probability & Statistics for Stochastic Processes 
 
 Currently in the works 👇
-- Currently working on improving my competitive programming skills. (If you love competetive programming feel free to reach out, I'd love to chat)
+- Currently working on improving my competitive programming skills.
+- Learning more about low level optimizations in C++.
+- Learning Rust!
 
 <!--
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityamadan23&count_private=true&include_all_commits=true&cache_seconds=1800&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
