@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Page!
 
-I'm Aditya, feel free to call me Adi. I work as a Member of Technical Staff at Cockroach Labs for the Cloud Platforms Team. I previously worked at Google on the Cloud Networking Control Plane team in Sunnyvale, California.
+I'm Aditya, feel free to call me Adi. I work as a Member of Technical Staff at Cockroach Labs, as a part of the Cloud Platforms team. I was previously at Google on the Cloud Networking Control Plane team in Sunnyvale, California.
 
 I'm interested in the following areas 👇
 - Parallel and Concurrent Programming
